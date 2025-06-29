@@ -1,7 +1,8 @@
 # 🧱 Software Architecture with PHP
 
-**Repositório de Análises Técnicas sobre Arquiteturas de Software PHP, sob a Perspectiva de Qualidade**
-
+**Repositórios com Análises Técnicas sobre Arquiteturas de Software PHP, sob a Perspectiva de Qualidade**
+[Acesse os repositórios aqui](https://github.com/software-architecture-with-php/repositories)
+[Acesse o repositórios de anotações aqui](https://github.com/software-architecture-with-php/anotacoes_cursos)
 ---
 
 ## ✨ Sobre a Organização
